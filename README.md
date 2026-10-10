@@ -43,7 +43,7 @@ I used a pivot table to analyze and summarize the data, with a clear view of the
 
 
 ## Dashboard
-A summary of key results with charts and slicers.
+A summary of key results with charts and slicers. [Dashboard](KURSY%20SUPERMARKET%20ANALYSIS.xlsx)
 
 ![Dashboard](screenshots/Kursy%20sales%20Dashboard.png)
 
