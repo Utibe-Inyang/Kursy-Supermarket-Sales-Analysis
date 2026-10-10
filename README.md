@@ -17,7 +17,7 @@ This Kursy Supermarket Analysis was created to help the supermarket Manager inve
 
 The data is from Kursy Supermarket gathered over time, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on Invoive ID, Branch, City, Customer type, Gender, Product Line, Unit price, Quantity, sales, date, time, payment, Cost of goods sold (cogs), payment, rating.
 
-I used one workbook for the Analysis, and dashboard which can be found at [Kursy Supermarket](excel-projects/KURSY%20SUPERMARKET%20ANALYSIS.xlsx)
+I used one workbook for the Analysis, and dashboard which can be found at [Kursy Supermarket](EXCEL%20PROJECT/KURSY%20SUPERMARKET%20ANALYSIS.xlsx)
 
 ## Excel Skills Used
 
